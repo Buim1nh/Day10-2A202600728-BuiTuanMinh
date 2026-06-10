@@ -1,0 +1,22 @@
+[
+  {
+    "question": "What is the summary of the paper titled 'Operationalizing Reliability Gaps in Large Language Models: A Semi-Systematic Evidence Map of Reasoning, Factuality, Evaluation, and Retrieval-Augmented Generation'?",
+    "answer": "Abstract Large language models (LLMs) increasingly support reasoning, question answering, decision support, and retrieval-augmented knowledge work.",
+    "retrieved_titles": [
+      "Operationalizing Reliability Gaps in Large Language Models: A Semi-Systematic Evidence Map of Reasoning, Factuality, Evaluation, and Retrieval-Augmented Generation",
+      "Hallucination in Large Language Models and Retrieval-Augmented Generation: Mechanisms, Mitigation, and Evaluation",
+      "Retrieval-Augmented Generation With Large Language Models",
+      "The Role of Retrieval-Augmented Generation in Improving Factual Accuracy for Medical Large Language Models"
+    ]
+  },
+  {
+    "question": "Who authored the paper 'Operationalizing Reliability Gaps in Large Language Models: A Semi-Systematic Evidence Map of Reasoning, Factuality, Evaluation, and Retrieval-Augmented Generation'?",
+    "answer": "Kushal Budha, Nikesh Lagun",
+    "retrieved_titles": [
+      "Operationalizing Reliability Gaps in Large Language Models: A Semi-Systematic Evidence Map of Reasoning, Factuality, Evaluation, and Retrieval-Augmented Generation",
+      "Hallucination in Large Language Models and Retrieval-Augmented Generation: Mechanisms, Mitigation, and Evaluation",
+      "Retrieval-Augmented Generation With Large Language Models",
+      "The Role of Retrieval-Augmented Generation in Improving Factual Accuracy for Medical Large Language Models"
+    ]
+  }
+]

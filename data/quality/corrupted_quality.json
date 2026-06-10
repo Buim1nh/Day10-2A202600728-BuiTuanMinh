@@ -1,0 +1,22 @@
+{
+  "report_name": "corrupted_quality",
+  "success": false,
+  "metrics": {
+    "total_rows": 20,
+    "null_paper_ids": 0,
+    "empty_paper_ids": 0,
+    "unique_paper_ids": 18,
+    "null_titles": 0,
+    "empty_titles": 0,
+    "short_summaries": 2,
+    "stale_count": 2
+  },
+  "checks": {
+    "row_count_check": true,
+    "paper_id_not_null_check": true,
+    "paper_id_unique_check": false,
+    "title_not_null_check": true,
+    "summary_length_check": false,
+    "freshness_check": false
+  }
+}

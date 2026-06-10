@@ -1,0 +1,22 @@
+{
+  "report_name": "repaired_quality",
+  "success": true,
+  "metrics": {
+    "total_rows": 23,
+    "null_paper_ids": 0,
+    "empty_paper_ids": 0,
+    "unique_paper_ids": 23,
+    "null_titles": 0,
+    "empty_titles": 0,
+    "short_summaries": 0,
+    "stale_count": 0
+  },
+  "checks": {
+    "row_count_check": true,
+    "paper_id_not_null_check": true,
+    "paper_id_unique_check": true,
+    "title_not_null_check": true,
+    "summary_length_check": true,
+    "freshness_check": true
+  }
+}
